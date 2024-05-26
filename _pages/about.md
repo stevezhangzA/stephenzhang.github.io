@@ -25,5 +25,5 @@ Research Interests
 =====
 - How can we improve the data efficiency of RL algorithms, such as enhancing exploration in online settings and stitching in offline settings.
 - How to learn a policy beyond the scope of RL.
-- 
+  
 Meanwhile, I am continuously following the advancements in the fields related to RL and decision-making.
