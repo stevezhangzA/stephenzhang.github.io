@@ -23,5 +23,7 @@ Assigning
 
 Research Interests
 =====
-- How to improve the RL algorithm's data efficiency (such that exploration in online setting, stitching in offline setting .e.g).
-- How to learn policy beyond reward scope.
+- How can we improve the data efficiency of RL algorithms, such as enhancing exploration in online settings and stitching in offline settings.
+- How to learn a policy beyond the scope of RL.
+- 
+Meanwhile, I am continuously following the advancements in the fields related to RL and decision-making.
