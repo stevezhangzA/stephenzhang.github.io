@@ -12,7 +12,7 @@ title                    : #"Your Name / Site Title"
 title_separator          : #"-"
 name                     : "Ziqi Zhang"
 description              : "I am focusing on RL"
-url                      : https://stephenzhang677.github.io/
+url                      : https://stevezhangza.github.io/stephenzhang677.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"stevezhangzA/stephenzhang677.github.io"
 
@@ -22,7 +22,7 @@ repository               : #"stevezhangzA/stephenzhang677.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Your Sidebar Name"
+  name             : Ziqi Zhang
   pronouns         :  "him/his"  
   #bio             : "Short biography for the left-hand sidebar"
   location         : "Zhe Jiang"
