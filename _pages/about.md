@@ -13,5 +13,6 @@ Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to coller
 
 News 
 ======
-- May. 2024: One papers are accepted by ICML'2024.
+- May. 2024: One paper is accepted by ICML'2024.
 - Dec. 2023: One paper is accepted by AAAI'2024.
+- June. 2022: One paper is accepted by CIKM'2022.
