@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "ZheJiang, Hangzhou"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Ziqi Zhang"
-description              : &description "I am focusing on RL"
+title                    : #"Your Name / Site Title"
+title_separator          : #"-"
+name                     : "Ziqi Zhang"
+description              : "I am focusing on RL"
 url                      : https://stevezhangza.github.io/stevephenzhang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stevezhangzA/stephenzhang677.github.io"
@@ -25,7 +25,7 @@ author:
   name             : #"Your Sidebar Name"
   pronouns         :  "him/his"  
   #bio             : "Short biography for the left-hand sidebar"
-  location         : "ZheJiang"
+  location         : "Zhe Jiang"
   employer         : "WestLake University"
   uri              : # URL
   email            : "stevezhangz@163.com" 
