@@ -16,3 +16,12 @@ News
 - May. 2024: One paper is accepted by ICML'2024.
 - Dec. 2023: One paper is accepted by AAAI'2024.
 - June. 2022: One paper is accepted by CIKM'2022.
+
+Selected Publications and Pre-prints 
+======
+Assigning
+
+Research Interests
+=====
+- How to improve the RL algorithm's data efficiency (such that exploration in online setting, stitching in offline setting .e.g).
+- How to learn policy beyond reward scope.
