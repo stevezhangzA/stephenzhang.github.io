@@ -14,7 +14,6 @@ I am very fortunate to be advised by [Prof. Donglin Wang] of MiLab from [School 
 Previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
 
 ## News 
-
 - May. 2024: One papers are accepted by ICML'2024.
 - Dec. 2023: One paper is accepted by AAAI'2024.
 
