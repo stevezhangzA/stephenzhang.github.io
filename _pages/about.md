@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ziqi Zhang, a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), advised by Prof. Donglin Wang (MiLab). My research interest includes offline Reinforcement Learning (RL) and Imitation Learning (IL). Previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
+I'm Ziqi Zhang, a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), advised by Prof. Donglin Wang (MiLab). My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). Previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
 
 Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to collerberate. 
 
