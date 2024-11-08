@@ -9,7 +9,9 @@ redirect_from:
 
 I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. Meanwhile, I am pursing MicroMasters Program in Statistics and Data Science, Massachusetts Institute of Technology. 
 
-Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). Previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
+Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). 
+
+Much more previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
 
 Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to collerberate. 
 
@@ -26,19 +28,19 @@ Selected Publications and Pre-prints
 
 [2] Ziqi Zhang*, Cunxiang Wang*, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) Preprint, arXiv:2407.07099. [Code Page](https://github.com/stevezhangzA/nash-chain-of-thought)
 
-The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP24 main)
+*The 2024 Conference on Empirical Methods in Natural Language Processing* (**EMNLP24 main**)
 
 [3] Zifeng Zhuang, Dengyun Peng, Jinxin Liu, Ziqi Zhang, Donglin Wang. 2024.[Reinformer: Max-Return Sequence Modeling for Offline RL](https://arxiv.org/pdf/2405.08740). Preprint, arXiv:2405.08740.
 
-The 42th International Conference on Machine Learning (ICML24 poster)
+*The 42th International Conference on Machine Learning* (**ICML24 poster**)
 
 [4] Jinxin Liu*, Ziqi Zhang*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning](https://arxiv.org/pdf/2306.12755). Preprint, arXiv:2306.12755.
 
-The 38th Annual AAAI Conference on Artificial Intelligence (AAAI24 poster) 
+*The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
 
 [5] Feng Zhao, Ziqi Zhang, Donglin Wang. 2023. [KSG: Knowledge and Skill Graph](https://arxiv.org/pdf/2209.05698). Preprint, arXiv:2209.05698.
 
-Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM22 short)
+*Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (**CIKM22 short**)
 
 Research Interests
 =====
