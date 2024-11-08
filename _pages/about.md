@@ -22,7 +22,7 @@ News
 - Dec.  2023: One paper has been accepted by **AAAI'2024**.
 - June. 2022: One paper has been accepted by **CIKM'2022**.
 
-Selected Publications and Pre-prints 
+Selected Publications and Pre-prints (* denotes Equal contribution)
 ======
 
 [1] Ziqi Zhang*, Jingzehua Xu*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) *Preprint*, arXiv:2312.07624v3. [Code Page](https://github.com/stevezhangzA/pb_ppo)
