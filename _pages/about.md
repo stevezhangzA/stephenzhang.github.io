@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. Meanwhile, I am pursing MicroMasters Program in Statistics and Data Science, Massachusetts Institute of Technology (MIT). 
+I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. Meanwhile, I am pursing MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. 
 
-Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). 
+Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**, MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). 
 
 Much more previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
 
