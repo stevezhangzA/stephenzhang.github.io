@@ -25,7 +25,7 @@ News
 Selected Publications and Pre-prints 
 ======
 
-[1] Ziqi Zhang*, Jingzehua Xu*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) Preprint, arXiv:2312.07624v3.
+[1] Ziqi Zhang*, Jingzehua Xu*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) Preprint, arXiv:2312.07624v3. [Code Page](https://github.com/stevezhangzA/pb_ppo)
 
 [2] Ziqi Zhang*, Xiao Xiong*, Zifeng Zhuang, Jinxin Liu, Donglin Wang. [Improving Offline-to-Online Reinforcement Learning with Q Conditioned State Entropy Exploration.](https://arxiv.org/abs/2310.19805) Preprint, arXiv:2310.19805.
 
