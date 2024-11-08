@@ -40,10 +40,6 @@ The 38th Annual AAAI Conference on Artificial Intelligence (AAAI24 poster)
 
 Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM22 short)
 
-Social Services
-======
-- Research Assitant (2021.12-2024.7)
-
 Research Interests
 =====
 - How can we improve the data efficiency of RL algorithms, such as enhancing exploration in online settings and stitching in offline settings.
