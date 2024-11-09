@@ -25,11 +25,11 @@ News
 Selected Publications and Pre-prints (* denotes Equal contribution)
 ======
 
-[1] Ziqi Zhang*, Jingzehua Xu*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) *Preprint*, arXiv:2312.07624v3. [Code Page](https://github.com/stevezhangzA/pb_ppo)
+[1] Ziqi Zhang *, Jingzehua Xu *, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) *Preprint*, arXiv:2312.07624v3. [Code Page](https://github.com/stevezhangzA/pb_ppo)
 
-[2] Ziqi Zhang*, Xiao Xiong*, Zifeng Zhuang, Jinxin Liu, Donglin Wang. [Improving Offline-to-Online Reinforcement Learning with Q Conditioned State Entropy Exploration.](https://arxiv.org/abs/2310.19805) *Preprint*, arXiv:2310.19805.
+[2] Ziqi Zhang *, Xiao Xiong *, Zifeng Zhuang, Jinxin Liu, Donglin Wang. [Improving Offline-to-Online Reinforcement Learning with Q Conditioned State Entropy Exploration.](https://arxiv.org/abs/2310.19805) *Preprint*, arXiv:2310.19805.
 
-[3] Ziqi Zhang*, Cunxiang Wang*, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) *Preprint*, arXiv:2407.07099. [Code Page](https://github.com/stevezhangzA/nash-chain-of-thought)
+[3] Ziqi Zhang *, Cunxiang Wang *, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) *Preprint*, arXiv:2407.07099. [Code Page](https://github.com/stevezhangzA/nash-chain-of-thought)
 
 *The 2024 Conference on Empirical Methods in Natural Language Processing* (**EMNLP24 main**)
 
@@ -37,7 +37,7 @@ Selected Publications and Pre-prints (* denotes Equal contribution)
 
 *The 42th International Conference on Machine Learning* (**ICML24 poster**)
 
-[5] Jinxin Liu*, Ziqi Zhang*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
+[5] Jinxin Liu *, Ziqi Zhang *, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement  earning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
 
 *The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
 
