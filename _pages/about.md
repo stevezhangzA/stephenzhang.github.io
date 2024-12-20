@@ -17,6 +17,7 @@ Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to coller
 
 News 
 ======
+- Dec.  2024: One paper has been accepted by **AAAI'2025 PRL**.
 - Sep.  2024: One paper has been accepted by **EMNLP'2024**.
 - May.  2024: One paper has been accepted by **ICML'2024**.
 - Dec.  2023: One paper has been accepted by **AAAI'2024**.
