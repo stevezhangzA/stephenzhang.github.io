@@ -26,7 +26,7 @@ News
 Selected Publications and Pre-prints (* denotes Equal contribution)
 ======
 
-[1] Ziqi Zhang, Zifeng Zhuang, Jingzehua Xu, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression]() *Preprint*, . [Code Page](https://github.com/stevezhangzA/Adverserial_Density_Regression)
+[1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression]() *Preprint*, . [Code Page](https://github.com/stevezhangzA/Adverserial_Density_Regression)
 
 [2] Ziqi Zhang\*, Jingzehua Xu\*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) *Preprint*, arXiv:2312.07624v3. [Code Page](https://github.com/stevezhangzA/pb_ppo)
 
