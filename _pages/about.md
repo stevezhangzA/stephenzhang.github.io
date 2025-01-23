@@ -26,13 +26,13 @@ News
 Selected Publications and Pre-prints (* denotes Equal contribution)
 ======
 
-[1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [Code Page](https://github.com/stevezhangzA/Adverserial_Density_Regression)
+[1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [[Code Page]](https://github.com/stevezhangzA/Adverserial_Density_Regression)
 
-[2] Ziqi Zhang\*, Jingzehua Xu\*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) *Preprint*, arXiv:2312.07624v3. [Code Page](https://github.com/stevezhangzA/pb_ppo)
+[2] Ziqi Zhang\*, Jingzehua Xu\*, Zifeng Zhuang, Hongyin Zhang, Jinxin Liu, Donglin wang, Shuai Zhang. [A dynamical clipping approach with task feedback for Proximal Policy Optimization](https://arxiv.org/pdf/2312.07624v3) *Preprint*, arXiv:2312.07624v3. [[Code Page]](https://github.com/stevezhangzA/pb_ppo)
 
 [3] Ziqi Zhang\*, Xiao Xiong\*, Zifeng Zhuang, Jinxin Liu, Donglin Wang. [Improving Offline-to-Online Reinforcement Learning with Q Conditioned State Entropy Exploration.](https://arxiv.org/abs/2310.19805) *Preprint*, arXiv:2310.19805.
 
-[4] Ziqi Zhang\*, Cunxiang Wang\*, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) *Preprint*, arXiv:2407.07099. [Code Page](https://github.com/stevezhangzA/nash-chain-of-thought)
+[4] Ziqi Zhang\*, Cunxiang Wang\*, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) *Preprint*, arXiv:2407.07099. [[Code Page]](https://github.com/stevezhangzA/nash-chain-of-thought)
 
 *The 2024 Conference on Empirical Methods in Natural Language Processing* (**EMNLP24 main**)
 
