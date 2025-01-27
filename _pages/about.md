@@ -19,7 +19,7 @@ Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to coller
 
 News 
 ======
-- Jan.  2025: I have completed required courses in the MIT statistics and data science MicroMaseters Program.
+- Jan.  2025: I have completed required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
 - Dec.  2024: One paper has been accepted by **AAAI'2025 PRL**.
 - Sep.  2024: One paper has been accepted by **EMNLP'2024**.
 - May.  2024: One paper has been accepted by **ICML'2024**.
