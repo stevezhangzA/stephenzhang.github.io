@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. Meanwhile, I am pursing MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. 
+I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. 
+
+I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. 
 
 Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**, MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). 
 
@@ -17,6 +19,7 @@ Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to coller
 
 News 
 ======
+- Jan.  2025: I have completed all required courses in the MIT statistics and data science MicroMaseters Program.
 - Dec.  2024: One paper has been accepted by **AAAI'2025 PRL**.
 - Sep.  2024: One paper has been accepted by **EMNLP'2024**.
 - May.  2024: One paper has been accepted by **ICML'2024**.
