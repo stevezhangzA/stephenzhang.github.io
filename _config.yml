@@ -25,9 +25,9 @@ author:
   name             : Ziqi Zhang
   pronouns         :  "him/his"  
   #bio             : "Short biography for the left-hand sidebar"
-  location         : "Zhe Jiang"
-  employer         : "WestLake University"
-  uri              : # URL
+  # location         : "Zhe Jiang"
+  # employer         : "WestLake University"
+  # uri              : # URL
   email            : "stevezhangz@163.com" 
 
   # Academic websites
