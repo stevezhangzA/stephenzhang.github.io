@@ -13,8 +13,6 @@ I have completed the required courses of MicroMasters Program in Statistics and 
 
 Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**, MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). 
 
-Much more previously, I am a first year Ph.D. candidate at Tsinghua University, majored in Biology.
-
 Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to collerberate. 
 
 News 
