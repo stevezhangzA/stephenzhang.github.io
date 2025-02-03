@@ -12,9 +12,9 @@ title                    : #"Your Name / Site Title"
 title_separator          : #"-"
 name                     : "Ziqi Zhang"
 description              : "I am focusing on RL"
-url                      : https://stevezhangza.github.io/stephenzhang.github.io/
+url                      : "https://stevezhangza.github.io/stephenzhang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"stevezhangzA/stephenzhang677.github.io"
+repository               : "stevezhangzA/stephenzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
