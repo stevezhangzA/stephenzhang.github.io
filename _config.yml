@@ -21,7 +21,7 @@ repository               : #"stevezhangzA/stephenzhang677.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/stevezhangzA/stephenzhang.github.io/blob/master/assets/head_photo.jpg"
+  avatar           : "head_photo.pdf"
   name             : Ziqi Zhang
   pronouns         :  "him/his"  
   #bio             : "Short biography for the left-hand sidebar"
