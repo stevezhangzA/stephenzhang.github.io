@@ -11,9 +11,9 @@ I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportun
 
 I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. 
 
-Previously, I am a Research Assitent (RA) from [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**, MiLab. My research includes offline Reinforcement Learning (RL) and Imitation Learning (IL). 
+Previously, I have a period of research experience at [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**.  
 
-Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to collerberate. 
+Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to collerberate or have any suggestions. 
 
 News 
 ======
