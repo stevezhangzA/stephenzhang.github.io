@@ -13,7 +13,7 @@ I have completed the required courses of MicroMasters Program in Statistics and 
 
 Previously, I have a period of research experience at [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**.  
 
-Feel free to [Email](mailto:stevezhangz@163.com)  me if you would like to collerberate or have any suggestions. 
+Feel free to [email](mailto:stevezhangz@163.com)  me if you would like to collerberate or have any suggestions. 
 
 News 
 ======
