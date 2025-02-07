@@ -24,8 +24,10 @@ News
 - Dec.  2023: One paper has been accepted by **AAAI'2024**.
 - June. 2022: One paper has been accepted by **CIKM'2022**.
 
-Selected Publications and Pre-prints (* denotes Equal contribution)
+Selected Publications and Pre-prints 
 ======
+
+- * denotes Equal contribution
 
 [1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [[Code Page]](https://github.com/stevezhangzA/Adverserial_Density_Regression)
 
