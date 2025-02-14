@@ -24,10 +24,10 @@ News
 - Dec.  2023: One paper has been accepted by **AAAI'2024**.
 - June. 2022: One paper has been accepted by **CIKM'2022**.
 
-Selected Publications and Pre-prints 
+selected publications and preprints 
 ======
 
-- *denotes Equal contribution
+*denotes Equal contribution
 
 [1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [[Code Page]](https://github.com/stevezhangzA/Adverserial_Density_Regression)
 
@@ -50,6 +50,13 @@ Selected Publications and Pre-prints
 [7] Feng Zhao, Ziqi Zhang, Donglin Wang. 2023. [KSG: Knowledge and Skill Graph](https://arxiv.org/pdf/2209.05698). *Preprint*, arXiv:2209.05698.
 
 *Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (**CIKM22 short**)
+
+selected projects and competations
+======
+
+I am open to collaboration on Kaggle when time available. 
+
+[Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top %1
 
 Research Interests
 =====
