@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-:smile: I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. 
+I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. 
 
-I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. :clap: 
+I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
 
 Previously, I have a period of research experience at [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**.  
 
-Feel free to [email](mailto:stevezhangz@163.com)  me if you would like to collerberate or have any suggestions. 
+Feel free to [email](mailto:stevezhangz@163.com)  me if you would like to collaborate or have any suggestions. 
 
-:rainbow: News 
+News 
 ======
 - Jan.  2025: I have completed required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
 - Dec.  2024: One paper has been accepted by **AAAI'2025 PRL**.
@@ -51,14 +51,14 @@ Selected publications and preprints
 
 *Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (**CIKM22 short**)
 
-Selected projects and competations
+Selected projects and competitions
 ======
 
-**Note** I am open to collaboration on Kaggle when time available. 
+**Note** I am open to collaboration on Kaggle when time is available. 
 
 [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top %1
 
-:point_right: Research Interests
+Research Interests
 =====
 - Deep Reinforcement Learning (RL)
 - Natural Language Processing (NLP)
