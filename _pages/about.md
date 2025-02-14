@@ -58,9 +58,7 @@ Selected projects and competations
 
 [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top %1
 
-Research Interests
+:point_right: Research Interests
 =====
-- How can we improve the data efficiency of RL algorithms, such as enhancing exploration in online settings and stitching in offline settings.
-- How to learn a policy beyond the scope of RL.
-  
-Meanwhile, I am continuously following the advancements in the fields related to RL and decision-making.
+- Deep Reinforcement Learning (RL)
+- Natural Language Processing (NLP)
