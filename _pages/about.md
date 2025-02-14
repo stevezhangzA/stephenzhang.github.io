@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. 
+:smile: I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. 
 
-I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. 
+I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. :clap: 
 
 Previously, I have a period of research experience at [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**.  
 
@@ -24,7 +24,7 @@ News
 - Dec.  2023: One paper has been accepted by **AAAI'2024**.
 - June. 2022: One paper has been accepted by **CIKM'2022**.
 
-selected publications and preprints 
+Selected publications and preprints 
 ======
 
 *denotes Equal contribution
@@ -51,7 +51,7 @@ selected publications and preprints
 
 *Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (**CIKM22 short**)
 
-selected projects and competations
+Selected projects and competations
 ======
 
 **Note** I am open to collaboration on Kaggle when time available. 
