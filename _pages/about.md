@@ -15,7 +15,7 @@ Previously, I have a period of research experience at [School of Engineering](ht
 
 Feel free to [email](mailto:stevezhangz@163.com)  me if you would like to collerberate or have any suggestions. 
 
-News 
+:rainbow: News 
 ======
 - Jan.  2025: I have completed required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
 - Dec.  2024: One paper has been accepted by **AAAI'2025 PRL**.
