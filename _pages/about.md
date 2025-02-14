@@ -54,7 +54,7 @@ selected publications and preprints
 selected projects and competations
 ======
 
-I am open to collaboration on Kaggle when time available. 
+**Note** I am open to collaboration on Kaggle when time available. 
 
 [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top %1
 
