@@ -65,6 +65,5 @@ Research Interests
 
 Social Services
 =====
-Conference Reviewer
-ICLR2025 
+Conference Reviewer: ICLR2025 
 
