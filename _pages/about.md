@@ -48,13 +48,11 @@ Selected publications and preprints
 Selected projects and competitions
 ======
 
-**Note:** I am open to collaboration on Kaggle when time is available. 
-
 - [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top 0.5%
 
 Research Topics
 =====
-- Statistic related Reinforcement Learning/Machine Learning. 
+- (Prev) Statistic related modern Reinforcement Learning/Machine Learning.
 
 Social Services
 =====
