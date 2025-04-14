@@ -54,7 +54,7 @@ Selected projects and competitions
 
 Research Interests
 =====
-- Statistic related Modern Machine Leanring. 
+- Statistic related Modern Machine Learning. 
 
 Social Services
 =====
