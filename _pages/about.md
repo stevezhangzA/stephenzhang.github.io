@@ -52,7 +52,8 @@ Selected projects and competitions
 
 Research Topics
 =====
-- Statistic related modern Reinforcement Learning/Machine Learning.
+- (Prev) Statistic related modern Reinforcement Learning/Machine Learning. I dont study RL towards robotics, LLM etc.
+- (Currently) I am foucsing on education.
 
 Social Services
 =====
