@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ziqi Zhang, currently seeking for a computer science Ph.D candidate opportunity. 
-
 I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
 
 Previously, I have a period of research experience at [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**.  
