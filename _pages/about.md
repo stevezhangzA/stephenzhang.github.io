@@ -52,7 +52,8 @@ Selected projects and competitions
 
 Research Topics
 =====
-- Previously, I mainly study Statistic related modern Reinforcement Learning/Machine Learning. And now, I dont have experience and plans to design RL towards robotics, LLM etc. 
+
+Previously, I mainly study Statistic related modern Reinforcement Learning/Machine Learning. And now, I dont have experience and plans to design RL towards robotics, LLM etc. 
 
 Social Services
 =====
