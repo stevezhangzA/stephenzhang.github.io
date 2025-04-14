@@ -52,7 +52,7 @@ Selected projects and competitions
 
 - [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top 0.5%
 
-Previous Researches
+Research Topics
 =====
 - Statistic related Reinforcement Learning/Machine Learning. 
 
