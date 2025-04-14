@@ -54,8 +54,7 @@ Selected projects and competitions
 
 Research Interests
 =====
-- Deep Reinforcement Learning (RL)
-- Natural Language Processing (NLP)
+- Statistic realted Modern Machine Leanring. 
 
 Social Services
 =====
