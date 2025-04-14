@@ -52,7 +52,7 @@ Selected projects and competitions
 
 Research Topics
 =====
-- (Prev) Statistic related modern Reinforcement Learning/Machine Learning.
+- Statistic related modern Reinforcement Learning/Machine Learning.
 
 Social Services
 =====
