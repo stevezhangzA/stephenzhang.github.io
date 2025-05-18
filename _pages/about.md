@@ -30,15 +30,11 @@ Selected Publications and Preprints
 
 [1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [[Code Page]](https://github.com/stevezhangzA/Adverserial_Density_Regression)
 
-[2] Zifeng Zhuang, Dengyun Peng, Jinxin Liu, Ziqi Zhang, Donglin Wang. 2024.[Reinformer: Max-Return Sequence Modeling for Offline RL](https://arxiv.org/pdf/2405.08740). *Preprint*, arXiv:2405.08740.
-
-*The 42th International Conference on Machine Learning* (**ICML24 poster**)
-
-[3] Jinxin Liu\*, Ziqi Zhang\*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement  earning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
+[2] Jinxin Liu\*, Ziqi Zhang\*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement  earning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
 
 *The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
 
-[4] Feng Zhao, Ziqi Zhang, Donglin Wang. 2023. [KSG: Knowledge and Skill Graph](https://arxiv.org/pdf/2209.05698). *Preprint*, arXiv:2209.05698.
+[3] Feng Zhao, Ziqi Zhang, Donglin Wang. 2023. [KSG: Knowledge and Skill Graph](https://arxiv.org/pdf/2209.05698). *Preprint*, arXiv:2209.05698.
 
 *Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (**CIKM22 short**)
 
