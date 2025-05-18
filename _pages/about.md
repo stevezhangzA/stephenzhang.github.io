@@ -30,7 +30,7 @@ Selected Publications and Preprints
 
 [1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [[Code Page]](https://github.com/stevezhangzA/Adverserial_Density_Regression)
 
-[2] Ziqi Zhang\*, Cunxiang Wang\*, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) *Preprint*, arXiv:2407.07099. [[Code Page]](https://github.com/stevezhangzA/nash-chain-of-thought)
+#[2] Ziqi Zhang\*, Cunxiang Wang\*, Xiong Xiao, Yue Zhang, Donglin Wang. 2024. [Nash CoT: Multi-#Path Inference with Preference Equilibrium.](https://export.arxiv.org/pdf/2407.07099) #*Preprint*, arXiv:2407.07099. [[Code Page]](https://github.com/stevezhangzA/nash-chain-of-#thought)
 
 *The 2024 Conference on Empirical Methods in Natural Language Processing* (**EMNLP24 main**)
 
