@@ -17,12 +17,7 @@ News
 ======
 - May.  2025: I have completed the Fintech Program of Wharton Online at **University of Pennsylvania**.
 - Jan.  2025: I have completed required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
-- Dec.  2024: One paper has been accepted by **AAAI'2025 PRL**.
-- Sep.  2024: One paper has been accepted by **EMNLP'2024**.
-- May.  2024: One paper has been accepted by **ICML'2024**.
-- Dec.  2023: One paper has been accepted by **AAAI'2024**.
-- June. 2022: One paper has been accepted by **CIKM'2022**.
-
+  
 Selected Publications and Preprints 
 ======
 
