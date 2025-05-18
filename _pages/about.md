@@ -34,10 +34,6 @@ Selected Publications and Preprints
 
 *The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
 
-[3] Feng Zhao, Ziqi Zhang, Donglin Wang. 2023. [KSG: Knowledge and Skill Graph](https://arxiv.org/pdf/2209.05698). *Preprint*, arXiv:2209.05698.
-
-*Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (**CIKM22 short**)
-
 Selected Projects and Competitions
 ======
 
