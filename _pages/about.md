@@ -9,8 +9,6 @@ redirect_from:
 
 I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
 
-Previously, I have a period of research experience at [School of Engineering](https://engineering.westlake.edu.cn/), **Westlake University**.  
-
 Feel free to [email](mailto:stevezhangz@163.com)  me if you have any suggestions. 
 
 News 
