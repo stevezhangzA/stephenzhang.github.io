@@ -25,7 +25,7 @@ Selected Publications
 
 *The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
 
-Selected Projects and Competitions
+Competitions
 ======
 
 - [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top 0.5%
