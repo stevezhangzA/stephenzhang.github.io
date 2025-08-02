@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
+I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. Currently, I am a part-time teacher at [Lumist路觅教育](https://www.lumiclass.com), and soon join [WorldQuant](https://www.worldquant.com) as a Research Consulant.
 
 Feel free to [email](mailto:stevezhangz@163.com)  me if you have any suggestions. 
 
