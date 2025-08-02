@@ -16,14 +16,12 @@ News
 - May.  2025: I have completed the Fintech Program of Wharton Online at **University of Pennsylvania**.
 - Jan.  2025: I have completed required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
   
-Selected Publications and Preprints 
+Selected Publications
 ======
 
 *denotes Equal contribution
 
-[1] Ziqi Zhang\*, Zifeng Zhuang\*, Jingzehua Xu\*, Yiyuan Yang, Yubo Huang, Donglin Wang, Shuai Zhang. [Imitating from auxiliary imperfect demonstrations via Adversarial Density Weighted Regression](http://arxiv.org/abs/2405.20351) *Preprint*, 2405.20351. [[Code Page]](https://github.com/stevezhangzA/Adverserial_Density_Regression)
-
-[2] Jinxin Liu\*, Ziqi Zhang\*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement  earning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
+[1] Ziqi Zhang\*, Jinxin Liu\*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement  earning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
 
 *The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
 
