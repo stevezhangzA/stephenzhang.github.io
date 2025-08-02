@@ -30,11 +30,6 @@ Competitions
 
 - [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top 0.5%
 
-Research Topics
-=====
-
-Previously, I mainly study Statistic related modern Reinforcement Learning/Machine Learning. And now, I dont have experience and plans to design RL towards robotics, LLM etc. 
-
 Social Services
 =====
 Conference Reviewer: ICLR2025 
