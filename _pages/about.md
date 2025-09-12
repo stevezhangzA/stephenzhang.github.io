@@ -16,21 +16,11 @@ News
 - May.  2025: I have completed the Fintech Program of Wharton Online at **University of Pennsylvania**.
 - Jan.  2025: I have completed required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**.
   
-Selected Publications
+Work Experience
 ======
 
-*denotes Equal contribution
+(i) Prevoiusly, I study statistical-realted machine learning that includes Natural Language Processing (NLP), etc.
 
-[1] Ziqi Zhang\*, Jinxin Liu\*, Zhenyu Wei, Zifeng Zhuang, Yachen Kang, Sibo Gai, Donglin Wang. 2024. [Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement  earning](https://arxiv.org/pdf/2306.12755). *Preprint*, arXiv:2306.12755.
+(ii) Currently, I am focusing on Alpha factor for Market trade.
 
-*The 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI24 poster**) 
-
-Competitions
-======
-
-- [Google Universal Image Embedding 2022](https://www.kaggle.com/competitions/google-universal-image-embedding) Rank top 0.5%
-
-Social Services
-=====
-Conference Reviewer: ICLR2025 
 
