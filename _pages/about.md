@@ -19,8 +19,8 @@ News
 Work Experience
 ======
 
-(i) Prevoiusly, I study statistical-realted machine learning that includes Natural Language Processing (NLP), etc.
+(i) Previously, I studied machine learning with a focus on statistical methods.
 
-(ii) Currently, I am focusing on Alpha factor for Market trade.
+(ii) Currently, I am concentrating on alpha factor in quantitative finance.
 
 
