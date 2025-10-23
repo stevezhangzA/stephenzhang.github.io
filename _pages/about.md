@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. Currently, I will soon join [WorldQuant](https://www.worldquant.com) as a part-time Research Consulant.
+I have completed the required courses of MicroMasters Program in Statistics and Data Science, **Massachusetts Institute of Technology (MIT)**. Currently, I am a Research Consulant at [WorldQuant](https://www.worldquant.com).
 
 News 
 ======
