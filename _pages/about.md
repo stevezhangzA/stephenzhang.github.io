@@ -26,9 +26,7 @@ I am a graduate student at the University of Southern California interested in M
 
 ## 🔬 Research Interests
 
-- Machine Learning
-- Deep Learning
-- Alpha Research
+Machine Learning, Deep Learning, Alpha Research
 
 ---
 
@@ -36,29 +34,20 @@ I am a graduate student at the University of Southern California interested in M
 
 ### Programming Languages
 
-- Python
-- C/C++
+Python, C/C++, LaTex
 
 ### Machine Learning
 
-- PyTorch
-- TensorFlow
-- JAX
-- Reinforcement Learning
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
+PyTorch, TensorFlow, JAX, Reinforcement Learning, Deep Learning, Natural Language Processing, Language Models
 
 ### Data Science
 
-- NumPy
-- Pandas
+NumPy, Pandas
 
 ### Quantitative Research
 
-- Alpha Research
-- Factor Modeling
-- Statistical Learning
+Alpha Research, Factor Modeling
+
 
 ### Tools
 
