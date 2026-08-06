@@ -48,10 +48,6 @@ NumPy · Pandas
 
 Alpha Research · Factor Modeling
 
-### 🛠️ Tools
-
-Git
-
 ---
 ## 💼 Professional Experience
 
