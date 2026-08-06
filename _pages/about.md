@@ -51,34 +51,38 @@ Alpha Research · Factor Modeling
 ### 🛠️ Tools
 
 Git
----
 
+---
 ## 💼 Professional Experience
 
-### WorldQuant Brain
-**Research Consultant**
+### WorldQuant Brain  
+**Research Consultant** | Remote  
+*Oct 2025 – Mar 2026*
 
-- Built automated Python pipelines to evaluate over **20,000** quantitative alpha variants.
-- Developed quantitative alpha generation pipelines using systematic expression search and LLM-assisted factor discovery.
-- Submitted **100+** alpha factors meeting platform evaluation criteria.
-
----
-
-### Zhipu AI
-**Research Intern**
-
-- Conducted research on Small Language Models (SLMs).
-- Implemented an RLHF training pipeline for a **1B-parameter** language model.
-- Evaluated reinforcement learning methods through controlled experiments.
+- Built automated **Python pipelines** to evaluate over **20,000 quantitative alpha variants** on the WorldQuant Brain platform.
+- Developed quantitative alpha generation pipelines using **systematic expression search** and **LLM-assisted factor discovery**.
+- Submitted **100+ alpha factors** meeting platform evaluation criteria, including general-purpose factors generated through LLM-assisted research and manual refinement.
 
 ---
 
-### Westlake University
-**Research Assistant**
+### Zhipu AI  
+**Research Intern** | Beijing  
+*Nov 2024 – Dec 2024*
 
-- Developed deep learning models for NLP and Reinforcement Learning using PyTorch.
-- Designed end-to-end training pipelines and conducted ablation studies.
-- Co-authored publications at AAAI, EMNLP, CIKM, and ICML.
+- Conducted research on **Small Language Models (SLMs)**.
+- Implemented an **RLHF training pipeline** for a **1B-parameter language model**.
+- Evaluated reinforcement learning methods through controlled experiments and model performance analysis.
+
+---
+
+### Westlake University  
+**Research Assistant** | Hangzhou  
+*Dec 2021 – Oct 2024*
+
+- Developed **deep learning models** for **NLP and reinforcement learning** using PyTorch.
+- Designed end-to-end training pipelines and conducted extensive **ablation studies**.
+- Co-authored publications at **AAAI, EMNLP, CIKM, and ICML**.
+- Maintained reproducible research code and documentation.
 
 ---
 
@@ -86,27 +90,21 @@ Git
 
 ### First Author
 
-**Nash CoT: Multi-Path Inference with Preference Equilibrium**
+**Nash CoT: Multi-Path Inference with Preference Equilibrium**  
+*EMNLP 2024 — Visual Poster*
 
-EMNLP 2024 (Visual Poster)
+**Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning**  
+*AAAI 2024 — Poster*
 
 ---
-
-**Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning**
-
-AAAI 2024 (Poster)
 
 ### Co-author
 
-**Reinformer: Max-Return Sequence Modeling for Offline RL**
+**Reinformer: Max-Return Sequence Modeling for Offline RL**  
+*ICML 2024 — Poster*
 
-ICML 2024 (Poster)
-
----
-
-**KSG: Knowledge and Skill Graph**
-
-CIKM 2023 (Short Paper)
+**KSG: Knowledge and Skill Graph**  
+*CIKM 2023 — Short Paper*
 
 ---
 
