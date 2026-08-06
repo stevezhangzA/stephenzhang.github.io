@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**University of Southern California**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*M.S. in Computer Science*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 💼 Professional Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### WorldQuant Brain
+**Research Consultant**
+
+- Built automated Python pipelines to evaluate over **20,000** quantitative alpha variants.
+- Developed quantitative alpha generation pipelines using systematic expression search and LLM-assisted factor discovery.
+- Submitted **100+** alpha factors meeting platform evaluation criteria.
+
+---
+
+### Zhipu AI
+**Research Intern**
+
+- Conducted research on Small Language Models (SLMs).
+- Implemented an RLHF training pipeline for a **1B-parameter** language model.
+- Evaluated reinforcement learning methods through controlled experiments.
+
+---
+
+### Westlake University
+**Research Assistant**
+
+- Developed deep learning models for NLP and Reinforcement Learning using PyTorch.
+- Designed end-to-end training pipelines and conducted ablation studies.
+- Co-authored publications at AAAI, EMNLP, CIKM, and ICML.
+
+
