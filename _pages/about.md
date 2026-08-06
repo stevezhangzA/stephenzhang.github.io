@@ -8,47 +8,21 @@ redirect_from:
 ---
 
 ### Hi there, I'm Ziqi Zhang 👋
-
 **M.S. Student in Computer Science @ University of Southern California (USC)**
 
-I am a graduate student at the University of Southern California interested in Machine Learning and Quantitative Research. I previously focuses on developing efficient learning algorithms and applying AI techniques to real-world problems.
+I am a graduate student at the University of Southern California interested in **Machine Learning, Reinforcement Learning, Large Language Models, and Quantitative Research**.
 
-
----
-
-## 🎓 Education
-
-**University of Southern California**
-
-*M.S. in Computer Science*
+I previously focused on developing efficient learning algorithms and applying AI techniques to real-world problems.
 
 ---
 
 ## 🔬 Research Interests
 
-Machine Learning, Deep Learning, Alpha Research
+- Machine Learning
+- Quantitative Research
 
 ---
 
-## 💻 Technical Skills
-
-### 🖥️Programming Languages
-
-🐍 Python · ⚙️ C/C++ · 📄 LaTeX
-
-### 🤖 Machine Learning
-
-PyTorch · TensorFlow · JAX · Reinforcement Learning · Deep Learning · Natural Language Processing · Large Language Models
-
-### 📊 Data Science
-
-NumPy · Pandas
-
-### 📈 Quantitative Research
-
-Alpha Research · Factor Modeling
-
----
 ## 💼 Professional Experience
 
 ### WorldQuant Brain  
@@ -104,6 +78,36 @@ Alpha Research · Factor Modeling
 
 ---
 
+## 💻 Technical Skills
+
+### 🖥️ Programming Languages
+
+🐍 Python · ⚙️ C/C++ · 📄 LaTeX
+
+### 🤖 Machine Learning
+
+PyTorch · TensorFlow · JAX · Reinforcement Learning · Deep Learning · Natural Language Processing · Large Language Models
+
+### 📊 Data Science
+
+NumPy · Pandas
+
+### 📈 Quantitative Research
+
+Alpha Research · Factor Modeling
+
+---
+
+## 🎓 Education
+
+**University of Southern California**
+
+*M.S. in Computer Science*
+
+Expected Graduation: 2028
+
+---
+
 ## 🏆 Awards
 
 - 🥉 Google Universal Image Embedding Challenge (Third Prize)
@@ -114,7 +118,7 @@ Alpha Research · Factor Modeling
 
 ## 📚 Certifications
 
-- MITx MicroMasters® in Statistics and Data Science 
+- MITx MicroMasters® in Statistics and Data Science
 - Wharton Online FinTech Certificate
 - NVIDIA DLI AI Infrastructure and Operations Fundamentals
 
@@ -122,9 +126,9 @@ Alpha Research · Factor Modeling
 
 ## 🌱 Currently Working On
 
-- Quant Finance (Alpha)
+- Quantitative Alpha Research
 - Machine Learning
 
 ---
 
-⭐ Feel free to connect with me if you want to share me with internships.
+⭐ Feel free to connect with me for research collaboration or internship opportunities.
