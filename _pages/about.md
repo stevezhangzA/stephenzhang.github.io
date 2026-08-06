@@ -12,7 +12,7 @@ redirect_from:
 
 I am a graduate student at the University of Southern California interested in **Machine Learning, Language Models, and Quantitative Research**.
 
-I previously focused on developing efficient learning algorithms and find a job.
+I previously focused on developing efficient learning algorithms.
 
 ---
 
