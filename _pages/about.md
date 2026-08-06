@@ -16,13 +16,6 @@ I am a graduate student at the University of Southern California interested in M
 
 ---
 
-## 📫 Contact
-
-- 📍 Los Angeles, CA
-- 💼 LinkedIn: https://linkedin.com/in/ziqi-zhang-web26
-
----
-
 ## 🎓 Education
 
 **University of Southern California**
