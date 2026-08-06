@@ -5,7 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----# Hi there, I'm Ziqi Zhang 👋
+---
+
+# Hi there, I'm Ziqi Zhang 👋
 
 **M.S. Student in Computer Science @ University of Southern California (USC)**
 
