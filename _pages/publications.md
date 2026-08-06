@@ -5,12 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# 📄 Selected Publications
 
-{% include base_path %}
+### First Author
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Nash CoT: Multi-Path Inference with Preference Equilibrium**
+
+EMNLP 2024 (Visual Poster)
+
+---
+
+**Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning**
+
+AAAI 2024 (Poster)
+
+### Co-author
+
+**Reinformer: Max-Return Sequence Modeling for Offline RL**
+
+ICML 2024 (Poster)
+
+---
+
+**KSG: Knowledge and Skill Graph**
+
+CIKM 2023 (Short Paper)
