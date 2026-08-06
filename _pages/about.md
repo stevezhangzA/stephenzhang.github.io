@@ -19,7 +19,6 @@ I am a graduate student at the University of Southern California interested in M
 ## 📫 Contact
 
 - 📍 Los Angeles, CA
-- ✉️ Email: ziqi.zhang.cs@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/ziqi-zhang-web26
 
 ---
@@ -29,8 +28,6 @@ I am a graduate student at the University of Southern California interested in M
 **University of Southern California**
 
 *M.S. in Computer Science*
-
-Expected Graduation: **December 2028**
 
 ---
 
