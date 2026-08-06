@@ -15,9 +15,6 @@ redirect_from:
 
 ## 💼 Professional Experience
 
-
-## 💼 Professional Experience
-
 ### WorldQuant Brain  
 **Research Consultant** | Remote  
 *Oct 2025 – Mar 2026*
