@@ -131,4 +131,4 @@ Expected Graduation: 2028
 
 ---
 
-⭐ Feel free to connect with me for research collaboration or internship opportunities.
+⭐ Feel free to connect with me for internship opportunities.
