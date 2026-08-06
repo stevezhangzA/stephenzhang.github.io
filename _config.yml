@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "ZheJiang, Hangzhou"
+locale                   : "Los Angeles, CA"
 title                    : #"Your Name / Site Title"
 title_separator          : #"-"
 name                     : "Ziqi Zhang"
-description              : "I am focusing on RL"
+description              : #
 url                      : "https://stevezhangza.github.io/stephenzhang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stevezhangzA/stephenzhang.github.io"
@@ -28,11 +28,11 @@ author:
   # location         : "Zhe Jiang"
   # employer         : "WestLake University"
   # uri              : # URL
-  email            : "stevezhangz@163.com" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gYNRiIsAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ziqi-zhang-web26/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
