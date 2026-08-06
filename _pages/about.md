@@ -32,27 +32,25 @@ Machine Learning, Deep Learning, Alpha Research
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### 🖥️Programming Languages
 
-Python, C/C++, LaTex
+🐍 Python · ⚙️ C/C++ · 📄 LaTeX
 
-### Machine Learning
+### 🤖 Machine Learning
 
-PyTorch, TensorFlow, JAX, Reinforcement Learning, Deep Learning, Natural Language Processing, Language Models
+PyTorch · TensorFlow · JAX · Reinforcement Learning · Deep Learning · Natural Language Processing · Large Language Models
 
-### Data Science
+### 📊 Data Science
 
-NumPy, Pandas
+NumPy · Pandas
 
-### Quantitative Research
+### 📈 Quantitative Research
 
-Alpha Research, Factor Modeling
+Alpha Research · Factor Modeling
 
+### 🛠️ Tools
 
-### Tools
-
-- Git
-
+Git
 ---
 
 ## 💼 Professional Experience
