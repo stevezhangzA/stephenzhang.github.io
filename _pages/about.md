@@ -11,7 +11,8 @@ redirect_from:
 
 **M.S. Student in Computer Science @ University of Southern California (USC)**
 
-I am a graduate student at the University of Southern California interested in Machine Learning, Reinforcement Learning, Large Language Models, and Quantitative Research. My research focuses on developing efficient learning algorithms and applying AI techniques to real-world problems.
+I am a graduate student at the University of Southern California interested in Machine Learning, Reinforcement Learning, Large Language Models, and Quantitative Research. I previously focuses on developing efficient learning algorithms and applying AI techniques to real-world problems.
+
 
 ---
 
