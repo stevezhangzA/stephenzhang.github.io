@@ -10,10 +10,6 @@ redirect_from:
 ### Hi there, I'm Ziqi Zhang 👋
 **M.S. Student in Computer Science @ University of Southern California (USC)**
 
-I am a graduate student at the University of Southern California interested in **Machine Learning, Language Models, and Quantitative Research**.
-
-I previously focused on developing efficient learning algorithms.
-
 ---
 
 ## 🔬 Research Interests
