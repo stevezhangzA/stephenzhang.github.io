@@ -12,13 +12,6 @@ redirect_from:
 
 ---
 
-## 🔬 Research Interests
-
-- Machine Learning
-- Quantitative Research
-
----
-
 ## 💼 Professional Experience
 
 ### Agent Butler Client 
