@@ -22,20 +22,27 @@ App Website: https://agentbutler.netlify.app/
 
 Your personal Agent assistant
 
-This is an early-stage native macOS app for agent operation and agent assistance. This app supports:
-1. Planning (Goal-centered Planning); Scheduling (Both user tasks such as sports and exceptional tasks like coding and writing)
-2. Execution (Independent Coding/Document; Debug/Project improvement)
-3. Management (Codebase Init Github/ Merge Github; Individual Tasks notification)
+This is an early native macOS app for Agent operations and Agent assistance. This app supports:
+
+1. Plans (goal-centered plans); scheduling time (including user tasks like exercising and professional tasks like programming and writing)
+
+2. Execution (independent coding/documentation; debugging/project improvement)
+
+3. Management (setting up GitHub/merging GitHub; personal task management and reminders)
 
 Improving features:
+
 1. Quality Task Execution: We are focusing on coding harness, and we want to line up with general coding harness apps.
+
 2. Auto workflow, such as managing GitHub
 
-Developing features:
+Features that are being developed:
+
 1. Multi-agent collaboration system
 
-Future feature:
-In-App app operation. This app will offer users who set up apps using frontier foundation models the capability that they can let agent operate app in-sandbox.
+Features that would be launched in the future:
+
+An agent-operated app. This app provides features for users who are setting up applications with foundational models with agentic feature, allowing them to have agents operate apps within a sandbox.
 
 ### WorldQuant Brain  
 **Research Consultant** | Remote  
