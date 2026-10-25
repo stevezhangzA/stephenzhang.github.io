@@ -21,6 +21,29 @@ redirect_from:
 
 ## 💼 Professional Experience
 
+### Agent Butler Client 
+**Founder** | LA, Mixture  
+*Mar 2026 – now*
+
+App Website: https://agentbutler.netlify.app/
+
+Your personal Agent assistant
+
+This is an early-stage native macOS app for agent operation and agent assistance. This app supports:
+1. Planning (Goal-centered Planning); Scheduling (Both user tasks such as sports and exceptional tasks like coding and writing)
+2. Execution (Independent Coding/Document; Debug/Project improvement)
+3. Management (Codebase Init Github/ Merge Github; Individual Tasks notification)
+
+Improving features:
+1. Quality Task Execution: We are focusing on coding harness, and we want to line up with general coding harness apps.
+2. Auto workflow, such as managing GitHub
+
+Developing features:
+1. Multi-agent collaboration system
+
+Future feature:
+In-App app operation. This app will offer users who set up apps using frontier foundation models the capability that they can let agent operate app in-sandbox.
+
 ### WorldQuant Brain  
 **Research Consultant** | Remote  
 *Oct 2025 – Mar 2026*
