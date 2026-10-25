@@ -16,7 +16,7 @@ redirect_from:
 
 ### Agent Butler Client 
 **Founder** | LA, Mixture  
-*Mar 2026 – now*
+*August 2026 – now*
 
 App Website: https://agentbutler.netlify.app/
 
